@@ -1,0 +1,8 @@
+TICKET CINE ELORRIETA
+Cliente: Silvia
+Fecha: Thu Feb 05 13:05:48 CET 2026
+ID Compra: 17
+----------------
+Gladiator II x1 = 9.5e
+----------------
+Total Pagado: 9.5e
